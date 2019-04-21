@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ap-1"/>
+	<classpathentry kind="src" path="array-1"/>
+	<classpathentry kind="src" path="array-2"/>
+	<classpathentry kind="src" path="array-3"/>
+	<classpathentry kind="src" path="logic-1"/>
+	<classpathentry kind="src" path="logic-2"/>
+	<classpathentry kind="src" path="recursion-1"/>
+	<classpathentry kind="src" path="recursion-2"/>
+	<classpathentry kind="src" path="string-1"/>
+	<classpathentry kind="src" path="string-2"/>
+	<classpathentry kind="src" path="string-3"/>
+	<classpathentry kind="src" path="warmup-1"/>
+	<classpathentry kind="src" path="warmup-2"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
